@@ -20,7 +20,7 @@ Example Prusa connect view:
 ![Example Prusa connect view](media/example_camera.png)
 
 ## Tower version
-![Tower Version](media/tower.jpg)
+![Tower Version](media/tower.JPG)
 This version connects to the x-axis stepper and thus gives you a stable view of the nozzle. The module is powered by a connector that plugs in between the USB port and the USB drive.
 
 The package requires:
