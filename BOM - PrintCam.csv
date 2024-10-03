@@ -4,8 +4,10 @@ Stealth,PCB,Connector,1,https://www.digikey.nl/nl/products/detail/sullins-connec
 ,,Connector,1,https://www.digikey.nl/nl/products/detail/sullins-connector-solutions/SBH11-PBPC-D07-ST-BK/1990063,0.37
 ,,Header for ESP32-CAM,2,https://www.digikey.nl/nl/products/detail/adam-tech/RS1-08-G/9832056,0.82
 ,,PCB,1,https://oshwlab.com/jerzeek/prusa-mini-esp32-cam,10
-,,Header for programming,2,https://www.digikey.dk/da/products/detail/adam-tech/RS1-06-G/9832050,
-,,Pins for boot mode,1,https://www.digikey.dk/da/products/detail/w%C3%BCrth-elektronik/61300211121/4846823,
+,Optional,Header for programming,1,https://www.digikey.dk/da/products/detail/adam-tech/RS1-06-G/9832050,
+,Optional,Pins for boot mode,1,https://www.digikey.dk/da/products/detail/w%C3%BCrth-elektronik/61300211121/4846823,
+,,,,,
 Tower,usb splitter,,1,https://nl.aliexpress.com/item/1005005668267909.html?spm=a2g0o.order_list.order_list_main.68.227e79d256bIWW&gatewayAdapt=glo2nld,1.86
 ,3D print,,1,,0.6
+,,,,,
 Optional,Wide angle,,1,https://nl.aliexpress.com/item/1005005653817152.html?spm=a2g0o.productlist.main.5.3bc16c9fzVbqQo&algo_pvid=408026a1-97f1-4218-93f8-9427a868a4ec&algo_exp_id=408026a1-97f1-4218-93f8-9427a868a4ec-2&pdp_npi=4%40dis%21EUR%213.23%212.33%21%21%213.41%21%21%402103868817018709814058494e5899%2112000033898784150%21sea%21NL%21194382704%21&curPageLogUid=y6RWvEjGc2PR,6
